@@ -1,2 +1,2 @@
 #!/bin/bash
-su 744 hello
+su -rwxr-xr-- hello
