@@ -1,0 +1,1 @@
+creating 13 files all teaching of vaiirables, expansion, aliasing and the likes. Don't copy me, learn for your self but if you need help, check out my friends repo. More details in his commit messages. https://github.com/Milone22/
